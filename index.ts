@@ -1,8 +1,3 @@
-function myAwesomeFunction(argument: any):any
-{
-
-
-    return argument;
-
-
+function myAwesomeFunction(argument: any): any {
+  return argument;
 }
