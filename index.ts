@@ -6,3 +6,7 @@ function myAwesomeFunction(argument: string): string {
 function myHelperFunction(argument: string): string {
   return `(${argument})`;
 }
+
+function myOtherHelperFunction(argument: string): string {
+  return `[${argument}]`;
+}
