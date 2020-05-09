@@ -1,4 +1,4 @@
 // This function awesomely returns what it gets
-function myAwesomeFunction(argument: string): string {
+function composeHTML(argument: string): string {
   return argument;
 }
