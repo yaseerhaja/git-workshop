@@ -2,6 +2,12 @@ body {
   background-color: dodgerblue;
 }
 
+.bug {
+  padding: 20px;
+  background-color: #f00;
+  color: white;
+}
+
 .title {
   font-family: sans-serif;
   color: #fff;
