@@ -1,11 +1,9 @@
-# Scenario 10
+# Rebase Race
 
 ## 🏁 Objective
 
-Your colleague is asking for help. He said he has a bug which is not present on master.
-He is sure he introduced the bug within in one of his commits but he couldn't figure it
-out which one. Could you help him to detect in which commit the bug is introduced?
+You just need to add one of your favorite TV series to the list name "Colleague's Selections". Commit your change and push.
 
 ## 💡 Hint
 
-_you can serve the HTML file to observe the bug by running the command `python -m SimpleHTTPServer 8000` on your terminal._
+_use rebase to sync with changes_
